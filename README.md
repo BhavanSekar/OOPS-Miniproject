@@ -1,6 +1,6 @@
 # Deblurring of images using SRCNN( Super resolution Convolutional neural networks)
 
-
+[![Pylint](https://github.com/BhavanSekar/OOPS-MiniProject/actions/workflows/Pylint.yml/badge.svg)](https://github.com/BhavanSekar/MiniProject-LTTS/actions/workflows/Pylint.yml)
 ## Folder Structure
 
 | Folder           | Description                                   |

@@ -1,10 +1,10 @@
-import torch
-import cv2
-import srcnn
 import numpy as np
+import torch
+from torchvision.utils import save_image
+import cv2
 import glob as glob
 import os
-from torchvision.utils import save_image
+import srcnn
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 model = srcnn.SRCNN().to(device)
 model.load_state_dict(torch.load('C:/Users/hp/Desktop/LTTS_Proj/outputs/model.pth'))

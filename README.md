@@ -14,7 +14,7 @@
 ## Project Structure for implementation
 
 Download the input files from Dataset folder.
-Download in codes src from Implementation.
+Download the codes in src from Implementation.
 
 
 ├───input

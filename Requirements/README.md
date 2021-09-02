@@ -36,7 +36,7 @@ The Deblurring of images system provides an algorithm to use Deep learning algor
 
 ## 5W and 1H 
 
-![WH](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/5_Images/5w%201h%20report.PNG)
+![WH](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/5w1h.PNG)
 
 ## SWOT Analysis
 

@@ -15,8 +15,8 @@
 
 | Test ID |    Description    |                    Exp I/P                    |         Exp O/P         |    Actual O/P  |  Type Of Test  |
 |:-------:|:-----------------:|:---------------------------------------------:|:-----------------------:|:--------------:|:--------------:|
-| L_01    | Image resolution(I/P Layer | 504 *504 | 1  | 1 | Requirement based |
-| L_02    | Image resolution(I/P Layer |  Integer '2' from the user <br> Name of the book to be search | Displays the wanted book details  |   SUCCESS      | Requirement based |
-| L_03    | Image resolution(I/P Layer |  Integer '3' from the user       | Displays the recored of all the book list       |   SUCCESS      | Requirement based |
-| L_04    | Image resolution(I/P Layer |  Integer '4' from the user <br> Id of the book to be delete | Book's data deleted susccessfully       |   SUCCESS      | Requirement based |
-| L_05    | Image resolution(I/P Layer |  Integer '5' from the user <br> Enter the new username and password | Password Updated Susccessfully |   SUCCESS  | Requirement based |
+| L_01    | Image resolution(I/P Layer | 504 * 504 * 1 | 504 * 504 * 1 | 504 * 504 * 1 | Requirement based |
+| L_02    | Image resolution(I/P Layer | 288 * 288 * 1 | 288 * 288 * 1 | 288 * 288 * 1 | Requirement based |
+| L_03    | Image resolution(I/P Layer | 252 * 252 * 1 | 252 * 252 * 1 | 252 * 252 * 1 | Requirement based |
+| L_04    | Image resolution(I/P Layer | 276 * 276 * 1 | 276 * 276 * 1 | 276 * 276 * 1 | Requirement based |
+| L_05    | Image resolution(I/P Layer | 336 * 228 * 1 | 336 * 228 * 1 | 336 * 228 * 1 | Requirement based |

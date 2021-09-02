@@ -18,6 +18,7 @@ jobs:
         python-version: 3.9
     - name: Install dependencies 
       run: |
+        pip install pylint
         python -m pip install --upgrade pip
     - name: Analysing the code with pylint
       run: |

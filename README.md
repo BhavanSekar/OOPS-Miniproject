@@ -1,1 +1,1 @@
-# OOPS-Miniproject
+# Deblurring of images using SRCNN

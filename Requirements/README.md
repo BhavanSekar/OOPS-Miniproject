@@ -22,13 +22,13 @@ The main features of this application includes.
 
 ## Cost and Features with Time
 
-In order to determine the cost to develop library management system, a few aspects are to be considered first:
+In order to determine the cost to develop Image deblurring algorithm, a few aspects are to be considered first:
 
-•	Size of the App: More the features, more the cost.
+•	Size of the Application: More the images, more the time to train.
 
-•	Number of Platforms: As the number of platforms are increased cost will also be increased significantly.
+•	User friendly application: The test file can be writen as a mobile application but at the cost of levearaging the possibility of retraining..
 
-•	If Indian App firm is chosen to create a Library Management System then the cost can range between $25000-$35000. This estimate is when the system is being developed with basic features and for a single platform.
+•	If Indian Application firm is chosen to create a Image deblurring system then the cost can range between $25000-$35000. This estimate is when the system is being developed with basic features (for example deblurring images obtained through microscopy)
 
 ## Defining our system
 

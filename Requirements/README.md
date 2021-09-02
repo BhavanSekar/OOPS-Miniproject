@@ -64,10 +64,10 @@ The Library Management System is an application for assisting a librarian in man
  
 | ID | Description |Category| Status (Implemented/Future) |
 | ------ | --------- | ----- |----|
-|LR01|  User shall be able to define the batch size, input layer and other equirements at the cost of leveraging accuracy and time based on requirements |Techincal| Implemented|
-|LR02|  User shall be able to sepearate the outliers and retrain after checking the loss plot |Techincal|Implemented|
-|LR03|  User shall be able to select between MSE and SSIM which are two error funtion metrics |Techincal|Implemented|
-|LR04|  User shall be able to manually come up with a test_plan and image resolution for the same|Implemented|
-|LR05|  User shall be able  to visually and graphically check the accuracy of the algorithm by comparing and contrasting the deblurred image with the input image |Implemented|
+|LR01|  User shall be able to define the batch size, input layer and other equirements at the cost of leveraging accuracy and time based on requirements | Techincal | Implemented |
+|LR02|  User shall be able to sepearate the outliers and retrain after checking the loss plot | Techincal | Implemented |
+|LR03|  User shall be able to select between MSE and SSIM which are two error funtion metrics | Techincal | Implemented |
+|LR04|  User shall be able to manually come up with a test_plan and image resolution for the same | Technical|  Implemented |
+|LR05|  User shall be able  to visually and graphically check the accuracy of the algorithm by comparing and contrasting the deblurred image with the input image |Technical | Implemented|
 |LR06|  User be able to test the algorithm using custom image |Techincal |Implemented|
 

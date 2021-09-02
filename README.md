@@ -37,4 +37,24 @@ Download the codes in src from Implementation.
 
 │   ├───train.py
 
+## How to run
+
+Download the makefile, Variables.c file and the main.c file and run the following command in the bash(cmd or terminal with gcc installed). Ensure that the variables.c file is added to the path.
+
+**For windows**
+
+```bash
+cd ".../src" [Move to SRC directory]
+python train.py
+python test.py
+```
+
+**For Linux**
+
+```bash
+cd ".../src" [Move to SRC directory]
+python train.py
+python test.py
+```
+
 

@@ -6,7 +6,10 @@
 
 
 
-### Usecase Diagram
+
+
+
+### High Level Diagram
 
 ![](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/SRCNN%20structure.PNG)
 

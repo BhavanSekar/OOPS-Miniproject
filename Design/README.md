@@ -2,7 +2,7 @@
 
 
 
-![ArchitectDesign](https://user-images.githubusercontent.com/86191206/130478854-99952b6f-5a63-4baa-b7c0-3f8515af832b.png)
+![ArchitectDesign](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/Design%20flow.PNG)
 
 
 

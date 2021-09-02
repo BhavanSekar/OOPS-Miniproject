@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env: 
-         working-directory: ./Implementation
+         working-directory: ./Images
 
     steps:
     - uses: actions/checkout@v2

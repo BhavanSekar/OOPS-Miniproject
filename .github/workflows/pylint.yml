@@ -19,7 +19,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-      working-directory: ${{env.working-directory}}
         pip install pylint
     - name: Analysing the code with pylint
       run: |

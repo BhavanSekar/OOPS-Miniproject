@@ -40,7 +40,7 @@ The Deblurring of images system provides an algorithm to use Deep learning algor
 
 ## SWOT Analysis
 
-![SWOT Analysis Template 03 - TemplateLab com](https://user-images.githubusercontent.com/67951541/130201901-4abd2038-ffaa-41a1-b4f7-ae9732a4ac2f.png)
+![SWOT Analysis Template 03 - TemplateLab com](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/SWOT.PNG)
 
 ## Concept used
 

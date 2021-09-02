@@ -25,11 +25,11 @@ Download in codes src from Implementation.
 
 │   ├───T91
 
-|    train_mscale.h5
+|   ├───train_mscale.h5
 
 ├───outputs
 
-└───src
+├───src
 
 │    srcnn.py
 

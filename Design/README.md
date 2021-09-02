@@ -8,7 +8,7 @@
 
 ### Usecase Diagram
 
-![](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/2_Design/USE%20CASE%20DIAGRAM.PNG)
+![](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/SRCNN%20structure.PNG)
 
 
 

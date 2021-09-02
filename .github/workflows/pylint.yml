@@ -18,7 +18,7 @@ jobs:
         python-version: 3.9
     - name: Install dependencies 
       run: |
-        pip install pylint torch torchvision numpy matplotlib h5py cv2
+        pip install pylint torch torchvision numpy matplotlib h5py
         python -m pip install --upgrade pip
     - name: Analysing the code with pylint
       run: |

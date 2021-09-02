@@ -1,14 +1,7 @@
-#!/usr/bin/env python3
+# This program adds two numbers
 
-def run_stuff():
+NUM_1 = 1.5
+NUM_2 = 6.3
 
-    # pylint wants 'file_handler'
-    fileHandler = open("afile.txt") # <-- pylint sees normal variable
-
-    for line in fileHandler:
-        Token = line.split("\t")
-        Part_1 = Token[0]
-        print(Part_1)
-
-if __name__ == '__main__':
-    run_stuff()
+# Add two numbers
+SUM = NUM_1 + NUM_2

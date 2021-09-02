@@ -9,7 +9,7 @@
 
 
 
-### High Level Diagram
+### HIGH Level Diagram
 
 ![](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/SRCNN%20structure.PNG)
 
@@ -17,40 +17,21 @@
 
 *FUNCTION 1*
 
-    REGISTRATION: New user can register.
+    DATA PREPARATION: Normalising Pixel size for input layer.
     
 *FUNCTION 2*
 
-    BOOK ISSUE: Here the book will be issued to the user.
+    TRAINING: Train the model with around 200o images from train_scale.h5.
     
 *FUNCTION 3*
 
-    BOOK RETURN: Here the user will return the book.
+    LOSS PLOT: Save the model and note the Mean square error and Peak signal to noise ratio.
     
 *FUNCTION 4*
 
-    SEARCH/VIEW BOOK DETAILS: It is used to search and view the Details of the book.
+    TEST: Test the algorithm with any custom image according to a test plan.
     
-*FUNCTION 5*
-
-    UPDATE BOOK DETAILS: Book entry can be added or removed.
-    
- ## High Level Design
+ ## LOW Level Design(LOSS funtion)
  
 ![image](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/LOSSFUNTION.PNG)
    
- ## Low Level Design
-
- ![image](https://user-images.githubusercontent.com/69230664/124647078-1ce1bb80-deb3-11eb-9e02-0e8794b65858.png)
- 
- ## Process-flow Design:
- 
-### Structural and Behavioural Diagram
- 
-![image](https://user-images.githubusercontent.com/69230664/124633784-4397f600-dea3-11eb-9989-55eff0223957.png)
-
-### Activity Diagram
-
-![ActivityDesign](https://user-images.githubusercontent.com/86191206/130581440-769c04e7-dbf5-4151-a838-49f93f0c84b5.png)
-
-

@@ -3,8 +3,8 @@
 [![Pylint](https://github.com/BhavanSekar/OOPS-Miniproject/actions/workflows/pylint.yml/badge.svg)](https://github.com/BhavanSekar/OOPS-Miniproject/actions/workflows/pylint.yml)
 [![Buildandtest](https://github.com/BhavanSekar/OOPS-Miniproject/actions/workflows/Buildandtest.yml/badge.svg)](https://github.com/BhavanSekar/OOPS-Miniproject/actions/workflows/Buildandtest.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a94bf2202d2b445b852ee2d6022dc4cd)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BhavanSekar/OOPS-Miniproject&amp;utm_campaign=Badge_Grade)
-[![Code quality](https://www.code-inspector.com/project/27227/score/svg)
-[![Code Grade](https://www.code-inspector.com/project/27227/status/svg)
+![Code quality](https://www.code-inspector.com/project/27227/score/svg)
+![Code Grade](https://www.code-inspector.com/project/27227/status/svg)
 
 | Folder           | Description                                   |
 |------------------|-----------------------------------------------|

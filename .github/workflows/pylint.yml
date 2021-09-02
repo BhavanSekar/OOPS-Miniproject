@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env: 
-         working-directory: ./Testing
+         working-directory: ./Implementation
 
     steps:
     - uses: actions/checkout@v2
@@ -17,8 +17,8 @@ jobs:
       with:
         python-version: 3.9
     - name: Install dependencies
-         sudo apt-get -y install torch torchvision numpy math
-        sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
+         sudo apt-get -y install torch torchvision numpy math numpy
+         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
       run: |
         python -m pip install --upgrade pip
         pip install pylint

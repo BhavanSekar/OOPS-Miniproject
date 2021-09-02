@@ -15,7 +15,7 @@
 
 | Test ID |    Description    |                    Exp I/P                    |         Exp O/P         |    Actual O/P  |  Type Of Test  |
 |:-------:|:-----------------:|:---------------------------------------------:|:-----------------------:|:--------------:|:--------------:|
-| L_01    | Image resolution(I/P Layer |  Integer '1' from the user <br> book id to be add <br> Book name to be add<br>author name to be add <br> Student name who going to add the book <br> date to be book added| Book gets added successfully  | SUCCESS | Requirement based |
+| L_01    | Image resolution(I/P Layer | 504 *504 | 1  | 1 | Requirement based |
 | L_02    | Image resolution(I/P Layer |  Integer '2' from the user <br> Name of the book to be search | Displays the wanted book details  |   SUCCESS      | Requirement based |
 | L_03    | Image resolution(I/P Layer |  Integer '3' from the user       | Displays the recored of all the book list       |   SUCCESS      | Requirement based |
 | L_04    | Image resolution(I/P Layer |  Integer '4' from the user <br> Id of the book to be delete | Book's data deleted susccessfully       |   SUCCESS      | Requirement based |

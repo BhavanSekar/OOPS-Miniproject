@@ -9,4 +9,4 @@
 | 2_Design         | Documents specifying design details           |
 | 3_Implementation | All implemented code                          |
 | 4_Test_plan      | Documents with test plans                     |
-| Testing          | Documents for testing code                    |
+| 5_Testing        | Documents for testing code                    |

@@ -34,7 +34,7 @@
     
  ## High Level Design
  
-![image](https://user-images.githubusercontent.com/69230664/124642199-33851400-dead-11eb-8b47-92e8404dc6fe.png)
+![image](https://github.com/BhavanSekar/OOPS-Miniproject/blob/main/Images/LOSSFUNTION.PNG)
    
  ## Low Level Design
 
